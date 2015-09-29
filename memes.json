@@ -535,7 +535,7 @@
         "microwave"
     ],
     "screaming-kirk": [
-        "star trek wrath of khan",
+        "wrath of khan",
         "kirk",
         "screaming kirk",
         "khan",
@@ -549,7 +549,7 @@
     ],
     "screaming-spock": [
         "screaming spock",
-        "star trek into darkness",
+        "into darkness",
         "spock"
     ],
     "scrooge-mcduck-2": [
@@ -627,6 +627,12 @@
         "spiderman",
         "spiderman computer desk",
         "and I'm just sitting here"
+    ],
+    "star-wars": [
+        "star wars"
+    ],
+    "star-trek": [
+        "star trek"
     ],
     "success-kid": [
         "success",
